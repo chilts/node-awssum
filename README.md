@@ -8,12 +8,12 @@ Please see the new [AwsSum](https://github.com/awssum/) organisation for more in
 
 * [AwsSum](https://github.com/awssum/awssum/)
 
-## AwsSum Amazon ##
+## Amazon ##
 
-* [AwsSum Amazon](https://github.com/awssum/awssum-amazon/)
-    * [AwsSum Amazon S3](https://github.com/awssum/awssum-amazon-s3/)
-    * [AwsSum Amazon EC2](https://github.com/awssum/awssum-amazon-ec2/)
-    * [AwsSum Amazon CloudFront](https://github.com/awssum/awssum-amazon-cloudfront/)
+* [Amazon](https://github.com/awssum/awssum-amazon/)
+    * [S3](https://github.com/awssum/awssum-amazon-s3/)
+    * [EC2](https://github.com/awssum/awssum-amazon-ec2/)
+    * [CloudFront](https://github.com/awssum/awssum-amazon-cloudfront/)
     * ... and plenty more ...
 
 (Ends)
