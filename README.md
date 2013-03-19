@@ -2,7 +2,8 @@
 
 AwsSum now has a plugin architecture and is split up into the main AwsSum repo, provider repos and service repos.
 
-Please see the new [AwsSum](https://github.com/awssum/) organisation for more info.
+Please see [AwsSum](https://github.com/awssum/awssum/) and the new [AwsSum](https://github.com/awssum/) organisation
+for more info.
 
 ## AwsSum Itself ##
 
